@@ -12,9 +12,9 @@ addons:
       - xsltproc
       - xmlstarlet
 
-branches:
-  only:
-    - master
+# branches:
+#   only:
+#     - master
 
 install:
   - |
